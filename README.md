@@ -29,6 +29,11 @@ This dashboard provides real-time visualization and analysis of weather and devi
 | Device Metrics | CPU Usage vs CPU Temp scatter plot, Memory vs Device Temp scatter plot |
 | Pressure & Lux | Pressure distribution histogram, Light (Lux) distribution histogram |
 
+<img width="2194" height="1257" alt="image" src="https://github.com/user-attachments/assets/56913d8c-fa81-4282-ac28-8d8a9ccb11fc" />
+
+<img width="2185" height="1262" alt="image" src="https://github.com/user-attachments/assets/ef348367-b192-4998-9b08-a2fad387c293" />
+
+
 ### Data Export
 - Download filtered data as CSV
 - View filtered record count
