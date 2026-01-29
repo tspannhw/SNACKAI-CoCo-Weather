@@ -107,4 +107,7 @@ streamlit_dashboard/
 | Empty charts | Check if filters are too restrictive |
 | Slow performance | Reduce data volume or increase cache TTL |
 
+## Resources
+
+- https://github.com/tspannhw/RPIWeatherStreaming
 
