@@ -107,6 +107,4 @@ streamlit_dashboard/
 | Empty charts | Check if filters are too restrictive |
 | Slow performance | Reduce data volume or increase cache TTL |
 
-## License
 
-Internal use only.
